@@ -1,5 +1,4 @@
-module gorm.io/driver/sqlite
-
+module github.com/mcoo/sqlite
 go 1.14
 
 require (
